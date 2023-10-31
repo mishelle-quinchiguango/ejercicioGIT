@@ -1,3 +1,4 @@
 # ejercicioGIT 
-Mishelle Quinchiguango 
-mishelle.quinchiguango@gmail.com
+**NOMBRE COMPLETO:** Mishelle Estefanía Quinchiguango   
+
+ **CORREO ELECTRÓNICO:** mishelle.quinchiguango@gmail.com
